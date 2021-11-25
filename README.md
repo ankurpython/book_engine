@@ -49,7 +49,7 @@ For covering more test cases we are going to need at least one hotel with 3 Hote
 - Third with price 200 (above max_price) 
 
 
-## Request example:
+## End points:
 
 http://127.0.0.1:8000/listing/?max_price=100&check_in=2021-12-09&check_out=2021-12-12
 
