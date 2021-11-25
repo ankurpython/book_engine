@@ -64,7 +64,7 @@ Some additional endpoints:
 
 ## Screenshot
 
-### 1. **Listing **
+### 1. **Listing**
 
 ![Screenshot from 2021-11-25 15-19-32](https://user-images.githubusercontent.com/48859058/143432719-8e89f94a-1f14-42e4-9f75-82bed6823cba.png)
 
@@ -91,4 +91,4 @@ Some additional endpoints:
 ![Screenshot from 2021-11-25 15-20-30](https://user-images.githubusercontent.com/48859058/143433746-eb04432f-f2d5-4549-aa10-21c72b8c768f.png)
 
 
-
+## Thank you
