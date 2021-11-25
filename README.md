@@ -62,8 +62,8 @@ Some additional endpoints:
 
 
 ## Response example:
-[
-    {
+
+{
         "id": 1,
         "price": "40.00",
         "listing": {
@@ -127,4 +127,3 @@ Some additional endpoints:
             "hotel": 4
         }
     }
-]
