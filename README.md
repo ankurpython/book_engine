@@ -61,69 +61,34 @@ Some additional endpoints:
     "booking": "http://127.0.0.1:8000/booking/"
 
 
-## Response example:
 
-{
-        "id": 1,
-        "price": "40.00",
-        "listing": {
-            "id": 1,
-            "listing_type": "apartment",
-            "title": "Luxurious Studio",
-            "country": "UK",
-            "city": "London"
-        },
-        "hotel_room_type": null
-    },
-    {
-        "id": 2,
-        "price": "90.00",
-        "listing": {
-            "id": 2,
-            "listing_type": "apartment",
-            "title": "Excellent 2 Bed Apartment Near Tower Bridge",
-            "country": "UK",
-            "city": "London"
-        },
-        "hotel_room_type": null
-    },
-    {
-        "id": 4,
-        "price": "50.00",
-        "listing": null,
-        "hotel_room_type": {
-            "id": 1,
-            "title": "Single Room",
-            "hotel": 5
-        }
-    },
-    {
-        "id": 5,
-        "price": "60.00",
-        "listing": null,
-        "hotel_room_type": {
-            "id": 2,
-            "title": "Double Room",
-            "hotel": 5
-        }
-    },
-    {
-        "id": 7,
-        "price": "90.00",
-        "listing": null,
-        "hotel_room_type": {
-            "id": 3,
-            "title": "Triple Room",
-            "hotel": 4
-        }
-    },
-    {
-        "id": 8,
-        "price": "70.00",
-        "listing": null,
-        "hotel_room_type": {
-            "id": 4,
-            "title": "Double Room",
-            "hotel": 4
-        }
-    }
+## Screenshot
+
+### 1. **Listing **
+
+![Screenshot from 2021-11-25 15-19-32](https://user-images.githubusercontent.com/48859058/143432719-8e89f94a-1f14-42e4-9f75-82bed6823cba.png)
+
+
+
+
+### 2.a. **Hotel Room Types and list**
+
+![Screenshot from 2021-11-25 15-19-50](https://user-images.githubusercontent.com/48859058/143433152-88871ba1-9447-4b43-882a-309d69305cdb.png)
+
+
+
+### 2.b **Hotel Room List**
+
+![Screenshot from 2021-11-25 15-20-06](https://user-images.githubusercontent.com/48859058/143433375-ae11dbad-5175-437f-b4b7-63004e1b358d.png)
+
+
+### 3.a **Booking Information**
+
+![Screenshot from 2021-11-25 15-20-21](https://user-images.githubusercontent.com/48859058/143433657-15c6799a-a0a7-43d6-a0a2-023752b89246.png)
+
+
+### 3.b **Booking Information**
+![Screenshot from 2021-11-25 15-20-30](https://user-images.githubusercontent.com/48859058/143433746-eb04432f-f2d5-4549-aa10-21c72b8c768f.png)
+
+
+
