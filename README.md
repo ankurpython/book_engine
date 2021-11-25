@@ -87,7 +87,7 @@ Some additional endpoints:
 ![Screenshot from 2021-11-25 15-20-21](https://user-images.githubusercontent.com/48859058/143433657-15c6799a-a0a7-43d6-a0a2-023752b89246.png)
 
 
-### 3.b **Booking Information**
+### 3.b **Room Booking**
 ![Screenshot from 2021-11-25 15-20-30](https://user-images.githubusercontent.com/48859058/143433746-eb04432f-f2d5-4549-aa10-21c72b8c768f.png)
 
 
